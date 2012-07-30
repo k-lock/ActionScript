@@ -2,7 +2,7 @@
 
 Extended Actionscript Components. The class is contains elements of :
 
- * **_Button_**    - {Button component}[https://github.com/k-lock/ActionScript/blob/master/SimpleComponents/components/Button.as]
+ * **_Button_**    - Button component
  * **_CheckBox_**  - Check Box
  * **_ComboBox_**  - Combo Box element
  * **_InputText_** - TextField
