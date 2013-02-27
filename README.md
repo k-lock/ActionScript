@@ -1,4 +1,4 @@
-# Actionscript Libary
+# Actionscript Library
 
 Contains classes of:
 
