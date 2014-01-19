@@ -6,7 +6,7 @@ package
 	[SWF(width="600", height="600", frameRate="30", backgroundColor="#444444")]
 	public class main extends Sprite
 	{
-		
+		//Main
 		public static var STAGE:Object
 		
 		public function main()
