@@ -7,5 +7,6 @@ Contains classes of:
  * **AirHockey V.1**			 - A two player player.io network game.
  * **Game Engine V 0**			 - A class layout for a flash game.
  * **aStarEngine V.0.1**		 - A pathfinder for a tower defense game.
+ * **kObjectHelper V.0.1         - A live debuger.
  
  
